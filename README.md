@@ -49,3 +49,5 @@ I’m particularly interested in **finance‑focused technology**, data engineer
 - **Email:** [priyanshu.uchat@gmail.com](mailto:priyanshu.uchat@gmail.com)  
 - **LinkedIn:** [https://linkedin.com/in/priyanshuiot](https://linkedin.com/in/priyanshuiot)  
 - **GitHub:** [https://github.com/ITSMEPRIYANSHUUCHAT](https://github.com/ITSMEPRIYANSHUUCHAT)  
+
+-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITSMEPRIYANSHUUCHAT)](https://github.com/anuraghazra/github-readme-stats)
