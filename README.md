@@ -46,6 +46,6 @@ I’m particularly interested in **finance‑focused technology**, data engineer
 ---
 
 ## 📫 Connect with Me
-- **Email:** [your.email@example.com](mailto:priyanshu.uchat@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/priyanshuiot)  
-- **GitHub:** [github.com/yourusername](https://github.com/ITSMEPRIYANSHUUCHAT)  
+- **Email:** [priyanshu.uchat@gmail.com](mailto:priyanshu.uchat@gmail.com)  
+- **LinkedIn:** [https://linkedin.com/in/priyanshuiot](https://linkedin.com/in/priyanshuiot)  
+- **GitHub:** [https://github.com/ITSMEPRIYANSHUUCHAT](https://github.com/ITSMEPRIYANSHUUCHAT)  
