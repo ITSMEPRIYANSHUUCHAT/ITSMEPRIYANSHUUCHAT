@@ -1,23 +1,52 @@
-About Me
+👋 Hi, I'm Priyanshu Uchat!
 
-I'm a dedicated developer with a focus on web development, machine learning, and AI-driven systems. My current projects involve building scalable web applications using modern frameworks, responsive design with Tailwind CSS, and dynamic animations. I’m also exploring IoT applications and no-code AI tools for web design.
+🚀 About Me
+I’m a passionate Full‑Stack Developer and AI/ML Enthusiast with experience in React, Tailwind CSS, Flask, Node.js, and LangChain for building intelligent web solutions. Alongside web technologies, I’ve worked extensively on IoT, microcontroller-based hardware systems, and AI-driven projects that combine software, data, and electronics to create high‑impact solutions. I’m particularly interested in finance‑focused technology, data engineering, and production‑grade applications that deliver real‑world value.
 
-Current Focus
+🎓 Education
+B.Tech in Information & Communication Technology (ICT)
+📍 Pandit Deendayal Energy University (PDEU)
 
+💻 Skills
 
+Full‑Stack Development
 
+React (JSX), Tailwind CSS, Flask, Node.js
 
+HTML5, CSS, JavaScript
 
-Advancing expertise in full-stack development with Flask, React, Node.js, and SQL/NoSQL databases.
+REST APIs, LangChain, OpenAI embeddings, FAISS
 
+Databases & Backend
 
+SQL (MySQL, PostgreSQL, SQLite), NoSQL (MongoDB, Firebase)
 
-Strengthening problem-solving skills through data structures and algorithms (DSA) for competitive programming (current Codeforces rating: 1685, targeting 2000+).
+Flask & FastAPI microservices, PDF query/report systems
 
-Collaboration
+AI/ML & Data
 
-Open to contributing to projects in web development, IoT, AI, and data science. Let’s build something impactful together.
+Machine Learning pipelines, AI‑driven automation
 
-Contact
+Vector search, LLM integrations
 
-Connect with me via GitHub or my professional networks.
+IoT & Hardware Development
+
+Microcontroller programming (sensors, control systems)
+
+Embedded systems projects for automation and safety
+
+DevOps & Tools
+
+AWS (Lambda, EC2, S3), Docker, GitHub/GitLab CI/CD
+
+Version control with Git
+
+💻 Notable Projects
+
+JATAYU – AI‑driven Women’s Safety Surveillance System
+
+PDF Query & Report Generator – LangChain + OpenAI embeddings for automated document intelligence
+
+Overhead Water Tank Sensor & Alarm System – Microcontroller-based IoT solution to reduce water wastage
+
+📫 Connect with M
