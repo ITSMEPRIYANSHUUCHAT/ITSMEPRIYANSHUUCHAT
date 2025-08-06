@@ -50,4 +50,4 @@ I’m particularly interested in **finance‑focused technology**, data engineer
 - **LinkedIn:** [https://linkedin.com/in/priyanshuiot](https://linkedin.com/in/priyanshuiot)  
 - **GitHub:** [https://github.com/ITSMEPRIYANSHUUCHAT](https://github.com/ITSMEPRIYANSHUUCHAT)  
 
--[![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITSMEPRIYANSHUUCHAT)](https://github.com/anuraghazra/github-readme-stats) ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITSMEPRIYANSHUUCHAT&show_icons=true)
+-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITSMEPRIYANSHUUCHAT&show_icons=true)
